@@ -43,7 +43,7 @@ This analysis demonstrates how data can be used to identify opportunities and su
 ---
 
 ## 🔗 Repository
-👉 https://github.com/Willians-hub/sales-performance-analysis
+👉 https://github.com/Willians-hub/Sales-Performance-Analysis-with-Python
 
 ---
 
